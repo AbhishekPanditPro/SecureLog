@@ -1,2 +1,7 @@
 SecureLog
 SecureLog.exe
+logappend
+logappend.exe
+logread
+logread.exe
+a.out
